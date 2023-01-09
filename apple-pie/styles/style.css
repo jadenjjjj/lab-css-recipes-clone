@@ -1,0 +1,54 @@
+.background {
+    width: 100%;
+    height: auto;
+    margin-bottom: 5%;
+}
+
+.title {
+    position:absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 500%;
+}
+
+.first_content {
+    white-space: pre;
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 2px;
+}
+
+.first_image {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+}
+
+
+.ingredients_title {
+    width: 1400px;
+    text-align: center;
+    font-size: 300%;
+}
+
+dd {
+    width:1450px;
+    padding-left: 600px;
+    font-size: 130%;
+}
+
+.directions_title {
+    width: 1400px;
+    text-align: center;
+    font-size: 300%;
+}
+
+
+.second_image {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+}
+
